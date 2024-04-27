@@ -27,6 +27,7 @@ This commands includes
 <BR>
 ## PROGRAM
 CLIENT.PY
+
 ```
 import socket
 from pythonping import ping
@@ -51,9 +52,13 @@ while True:
    finally:
      c.close() 
 #s.close()            
-
 ```
+
+
+
 SERVER.PY
+
+
 ```
 import socket
 s=socket.socket()
@@ -73,6 +78,9 @@ finally:
    s.close()
 
 ```
+
+
+
 ## Output
 CLIENT.PY
 
