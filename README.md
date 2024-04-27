@@ -49,7 +49,7 @@ while True:
    except Exception as e:
      print("Error:",e)
    finally:
-     c.close()
+     c.close() 
 #s.close()            
 
 ```
