@@ -1,6 +1,10 @@
 # 4.Execution_of_NetworkCommands
-## AIM :Use of Network commands in Real Time environment
-## Software : Command Prompt And Network Protocol Analyzer
+## NAME: ZAFREEN J
+## REGISTER NO: 212223040252
+## AIM :
+Use of Network commands in Real Time environment
+## Software :
+Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
@@ -82,14 +86,12 @@ finally:
 
 
 ## Output
-CLIENT.PY
+CLIENT.PY & SERVER.PY
 
-![Screenshot 2024-04-27 185019](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/93927203-9d10-4d69-b9c6-fc7ade595e90)
+![image](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/202224c3-92be-486b-b371-0a7998767819)
 
-
-
-SERVER.PY
-
+TRACEROUTE COMMAND:
+![image](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/fa858156-50c9-488a-82e7-2ad9ec045fb5)
 
 
 ![Screenshot 2024-04-27 185034](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/be41d11c-7177-4c5b-a696-d1175c987555)
