@@ -94,7 +94,7 @@ TRACEROUTE COMMAND:
 ![image](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/fa858156-50c9-488a-82e7-2ad9ec045fb5)
 
 
-![Screenshot 2024-04-27 185034](https://github.com/ZafreenJagir/4.Execution_of_NetworkCommends/assets/144870573/be41d11c-7177-4c5b-a696-d1175c987555)
+
 
 ## Result
 Thus Execution of Network commands Performed 
